@@ -1,0 +1,5 @@
+DRINK_ID = 1
+BURGER_ID = 2
+SHAURMA_ID = 3
+PIZZA_ID = 4
+ROLL_ID: int = 5
